@@ -13,4 +13,3 @@ Sample Output:
 
 
 
-CleverProgrammer Tutorial
